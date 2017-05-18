@@ -1,30 +1,39 @@
 body {
     margin: 0;
-    background-color: #FFFFFF;
+    background: #D8D8D8;
 }
 header {
-    background: #D8D8D8;
-    height: 100px;
-    width: 100%;
+    margin: 10px;
+    background: #4A90E2;
+    height: 50px;
+    width: 50px;
 }
 #blue {
-    background: #50E3C2;
-    height: 100px;
+    padding: 0;
+    background: #4A90E2;
+    height: 125px;
     width: 100%;
-    fle
 }
 #teal {
-    background: #B8E986;
-    height: 17%;
+    padding: 0;
+    background: #50E3C2;
+    height: 125px;
     width: 100%;
 }
 #yellow {
+    padding: 0;
     background: #B8E986;
-    height: 17%;
+    height: 125px;
     width: 100%;
 }
 #gold {
+    padding: 0;
     background: #F8E71C;
-    height: 17%;
+    height: 125px;
     width: 100%;
+}
+#paragraph {
+    margin: 0;
+    padding: 5%;
+    background-color: #FFFFFF;
 }
