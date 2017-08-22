@@ -11,26 +11,26 @@ header {
 #blue {
     padding: 0;
     background: #4A90E2;
-    height: 125px;
+    height: 140px;
     width: 100%;
 }
 #teal {
     padding: 0;
     background: #50E3C2;
-    height: 125px;
+    height: 140px;
     width: 100%;
 }
 #yellow {
     padding: 0;
     background: #B8E986;
-    height: 125px;
+    height: 140px;
     width: 100%;
 }
 #gold {
     margin: 0;
     padding: 0;
     background: #F8E71C;
-    height: 125px;
+    height: 140px;
     width: 100%;
 }
 #paragraph {
@@ -38,6 +38,7 @@ header {
     padding: 5%;
     background-color: #FFFFFF;
 }
-#parent-container{
+#container{
     margin: 0;
+    height: 100%;
 }
