@@ -27,6 +27,7 @@ header {
     width: 100%;
 }
 #gold {
+    margin: 0;
     padding: 0;
     background: #F8E71C;
     height: 125px;
@@ -36,4 +37,7 @@ header {
     margin: 0;
     padding: 5%;
     background-color: #FFFFFF;
+}
+#parent-container{
+    margin: 0;
 }
